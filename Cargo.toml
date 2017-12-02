@@ -1,6 +1,6 @@
 [package]
 name = "ternop"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
 
 [dependencies]
