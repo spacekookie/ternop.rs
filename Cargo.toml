@@ -2,5 +2,5 @@
 name = "ternop"
 version = "1.0.0"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
-
-[dependencies]
+description= "A tiny macro that implements a ternary operator for Rust"
+license = "MIT/X11"
