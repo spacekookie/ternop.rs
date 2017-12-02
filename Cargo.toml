@@ -1,6 +1,6 @@
 [package]
 name = "ternop"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
 description= "A tiny macro that implements a ternary operator for Rust"
 license = "MIT/X11"
